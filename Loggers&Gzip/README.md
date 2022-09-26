@@ -1,8 +1,6 @@
 ----------
-  #Comandos
- ----------
-
-# Conclusión
+#Comandos
+----------
 
 Sin console log
 
@@ -32,7 +30,6 @@ Sin console log
 
     12k requests in 20.07s, 6.88 MB read
 
-```
 ```
 
 El resultado de Artillery nos indica (ver archivo para resultados completos)
